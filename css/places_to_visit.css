@@ -1,3 +1,12 @@
 header{
     height: 50px;;
-    background-image:url(images/Screenshot\ 2026-09-26\ at\ 17-35-42\ .png);}
+    background-image:url(/images/belarus.png);}
+.center{
+    color: white;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
