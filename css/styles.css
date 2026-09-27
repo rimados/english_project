@@ -4,7 +4,7 @@
 }
 .header{
     height: 50px;;
-    background-image:url(images/belarus.png);}
+    background-image:url(../images/belarus.png);}
 .text{
     text-align: center;
     color: white;
@@ -13,7 +13,7 @@
 .belarusimage{
     min-height: 900px;
     width: 100%;
-    background-image: url(images/беларусь-iStock-1221700630.webp);
+    background-image: url(../images/беларусь-iStock-1221700630.webp);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
