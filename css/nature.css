@@ -1,6 +1,6 @@
 header{
     height: 50px;;
-    background-image:url("/images/belarus.png");}
+    background-image:url("../images/belarus.png");}
 .Pushcha{
     display: flex;
     flex-direction: row;

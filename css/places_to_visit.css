@@ -1,6 +1,6 @@
 header{
     height: 50px;;
-    background-image:url("/images/belarus.png");}
+    background-image:url("../images/belarus.png");}
 .center{
     color: white;
     text-align: center;
