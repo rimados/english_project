@@ -1,0 +1,38 @@
+.republic {
+    text-align: center;
+    color: white;
+}
+.header{
+    height: 50px;;
+    background-image:url(images/Screenshot\ 2026-09-26\ at\ 17-35-42\ .png);}
+.text{
+    text-align: center;
+    color: white;
+    
+}
+.belarusimage{
+    min-height: 900px;
+    width: 100%;
+    background-image: url(images/беларусь-iStock-1221700630.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+
+.divatext{
+    background: rgba(0, 0, 0, 0.3);
+    color: whitesmoke;
+    width: 50%;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+.aaa{
+    display: flex;
+    justify-content:space-between;
+}
